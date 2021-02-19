@@ -12,3 +12,4 @@ void backtrack(int i,int n)
             x=(x-a[j])/10;kt[j]=0;
         }
 }
+// this is the first code
